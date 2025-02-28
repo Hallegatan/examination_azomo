@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.Cart{
+    width: 80px;
+    height: 40px;
+    background-color: rgb(53, 94, 94);
+    text-align: center;
+    cursor:pointer;
+    border-radius: 4%;
+}
+
